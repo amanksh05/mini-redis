@@ -1,0 +1,13 @@
+# Compiled binaries
+/server
+/mini-redis
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
